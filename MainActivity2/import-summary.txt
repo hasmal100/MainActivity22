@@ -1,0 +1,61 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* java\
+* java\com\
+* java\com\my\
+* java\com\my\cnsstyre\
+* java\com\my\cnsstyre\AftersigninActivity.java
+* java\com\my\cnsstyre\AppointcardActivity.java
+* java\com\my\cnsstyre\AvailabletimesActivity.java
+* java\com\my\cnsstyre\CmnxnActivity.java
+* java\com\my\cnsstyre\DebugActivity.java
+* java\com\my\cnsstyre\DeveloperActivity.java
+* java\com\my\cnsstyre\FileUtil.java
+* java\com\my\cnsstyre\FinaldatetimedclrActivity.java
+* java\com\my\cnsstyre\MainActivity.java
+* java\com\my\cnsstyre\MymsgnrplActivity.java
+* java\com\my\cnsstyre\RequestNetwork.java
+* java\com\my\cnsstyre\RequestNetworkController.java
+* java\com\my\cnsstyre\ReservegivActivity.java
+* java\com\my\cnsstyre\ScurdfilepgActivity.java
+* java\com\my\cnsstyre\SignInActivity.java
+* java\com\my\cnsstyre\Signup2Activity.java
+* java\com\my\cnsstyre\Signup3Activity.java
+* java\com\my\cnsstyre\Signup4Activity.java
+* java\com\my\cnsstyre\SketchApplication.java
+* java\com\my\cnsstyre\SketchwareUtil.java
+* java\com\my\cnsstyre\UsrinfActivity.java
+* java\com\my\cnsstyre\WatchgetmedActivity.java
+* java\com\my\cnsstyre\WebvActivity.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
